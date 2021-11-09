@@ -1,0 +1,12 @@
+C:\Users\Apolo\source\repos\crud\capadatos\bin\Debug\capadatos.dll
+C:\Users\Apolo\source\repos\crud\capadatos\bin\Debug\capadatos.pdb
+C:\Users\Apolo\source\repos\crud\capadatos\obj\Debug\capadatos.csprojAssemblyReference.cache
+C:\Users\Apolo\source\repos\crud\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+C:\Users\Apolo\source\repos\crud\capadatos\obj\Debug\capadatos.dll
+C:\Users\Apolo\source\repos\crud\capadatos\obj\Debug\capadatos.pdb
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\bin\Debug\capadatos.dll
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\bin\Debug\capadatos.pdb
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\obj\Debug\capadatos.csprojAssemblyReference.cache
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\obj\Debug\capadatos.dll
+C:\Users\Julian\Desktop\crud.ejemplo\capadatos\obj\Debug\capadatos.pdb
